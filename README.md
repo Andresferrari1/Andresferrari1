@@ -19,5 +19,9 @@ Me interesa la creación de interfaces intuitivas y la optimización del rendimi
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white)
 
+🤝 Let's Connect:
+📧 Email: andresferrari590@gmail.com
+💼 LinkedIn: Andres Ferrari
+
 
 
