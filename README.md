@@ -21,6 +21,6 @@ Me interesa la creación de interfaces intuitivas y la optimización del rendimi
 
 🤝 **Let's Connect:**  
 📧 Email: andresferrari590@gmail.com  
-💼 [LinkedIn: Andres Ferrari] (https://www.linkedin.com/in/andresferrari)  
+💼 LinkedIn: Andres Ferrari 
 
 
